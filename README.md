@@ -1,7 +1,5 @@
-# Marlin-idbox
-Configurations for Marlin Firmware for idbox!
-
-Based on v2.1.2.
+# idbox-Config
+Firmware Configurations for idbox!
 
 ## Reference
 
