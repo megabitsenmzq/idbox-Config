@@ -1,6 +1,10 @@
 # idbox-Config
 Firmware Configurations for idbox!
 
+Marlin config is for version 2.1.2.2.
+
+Check commit 9f4b25a and 8ad4506 for changes to default configs.
+
 ## Reference
 
 [みかんパートナーズ - idbox!(週刊マイ3Dプリンター)のMarlinファームウェアを最新化する。](https://www.mikan-partners.com/archives/1666)
